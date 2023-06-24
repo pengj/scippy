@@ -1,0 +1,4 @@
+baseURL = 'http://scippy.cat/'
+languageCode = 'en-us'
+title = 'Scippy'
+theme = 'ananke'
